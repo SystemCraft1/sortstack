@@ -1,6 +1,5 @@
 import java.util.Stack;
 import java.util.ArrayList;
-import java.util.Scanner;
 
 public class stack {
     ArrayList<Coin> scramble = new ArrayList<Coin>();
@@ -48,10 +47,5 @@ public class stack {
     public ArrayList<Coin> getScramble() {
         return scramble;
     }
-
-    
-
-
-
 
 }
